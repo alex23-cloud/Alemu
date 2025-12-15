@@ -59,4 +59,5 @@ function createScrollToTopButton() {
     };
 }
 
+
 createScrollToTopButton();
